@@ -1,2 +1,0 @@
-C:\Users\perli\Code\RayCastingInC\x64\Debug\RayCastingInC.exe
-C:\Users\perli\Code\RayCastingInC\x64\Debug\RayCastingInC.pdb
